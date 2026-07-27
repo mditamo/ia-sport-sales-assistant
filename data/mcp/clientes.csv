@@ -1,0 +1,41 @@
+﻿cliente_id,nombre,apellido,documento,telefono,email,ciudad,provincia,estado,fecha_alta,observaciones
+CLI001,Sofía,Ramírez,28735650,11-1409-5506,sofia.ramirez@email.com,CABA,Buenos Aires,Activo,2025-10-16,Prefiere contacto por WhatsApp.
+CLI002,Laura,Gómez,32489709,11-3286-2679,laura.gomez@email.com,La Plata,Buenos Aires,Activo,2024-09-07,Retira pedidos por local.
+CLI003,Martín,Pereyra,43299464,11-2424-7912,martin.pereyra@email.com,Morón,Buenos Aires,Activo,2025-11-23,Solicita envíos a domicilio.
+CLI004,Camila,Torres,25999828,11-2535-4582,camila.torres@email.com,Quilmes,Buenos Aires,Activo,2024-02-02,Compra productos de running.
+CLI005,Diego,Fernández,41956909,11-1434-4257,diego.fernandez@email.com,San Isidro,Buenos Aires,Activo,2024-08-26,Interesado en entrenamiento funcional.
+CLI006,Valentina,Suárez,43285201,11-7873-4611,valentina.suarez@email.com,Lanús,Buenos Aires,Activo,2025-10-27,Prefiere transferencia bancaria.
+CLI007,Nicolás,Herrera,44772475,11-5557-1106,nicolas.herrera@email.com,Rosario,Santa Fe,Activo,2025-04-04,Cliente frecuente.
+CLI008,Florencia,Molina,39180586,11-6574-5552,florencia.molina@email.com,Córdoba,Córdoba,Activo,2024-06-12,Consulta promociones antes de comprar.
+CLI009,Lucas,Benítez,32224730,11-6514-2674,lucas.benitez@email.com,Mendoza,Mendoza,Inactivo,2024-06-08,Suele comprar accesorios deportivos.
+CLI010,Mariana,Castro,37748244,11-2584-6881,mariana.castro@email.com,Mar del Plata,Buenos Aires,Activo,2024-04-04,Sin observaciones relevantes.
+CLI011,Agustín,López,45257684,11-5333-1711,agustin.lopez@email.com,CABA,Buenos Aires,Activo,2024-12-18,Prefiere contacto por WhatsApp.
+CLI012,Carolina,Vega,42992829,11-3045-7201,carolina.vega@email.com,La Plata,Buenos Aires,Bloqueado,2025-04-15,Retira pedidos por local.
+CLI013,Federico,Acosta,43523409,11-5803-6925,federico.acosta@email.com,Morón,Buenos Aires,Activo,2024-03-21,Solicita envíos a domicilio.
+CLI014,Lucía,Rojas,31452134,11-2139-1750,lucia.rojas@email.com,Quilmes,Buenos Aires,Activo,2025-08-14,Compra productos de running.
+CLI015,Joaquín,Medina,32646997,11-5741-2307,joaquin.medina@email.com,San Isidro,Buenos Aires,Activo,2025-11-08,Interesado en entrenamiento funcional.
+CLI016,Micaela,Silva,28389045,11-7227-5554,micaela.silva@email.com,Lanús,Buenos Aires,Activo,2024-08-26,Prefiere transferencia bancaria.
+CLI017,Tomás,Romero,37241736,11-3664-7065,tomas.romero@email.com,Rosario,Santa Fe,Activo,2025-04-09,Cliente frecuente.
+CLI018,Paula,Sosa,32029889,11-5374-2169,paula.sosa@email.com,Córdoba,Córdoba,Activo,2024-12-29,Consulta promociones antes de comprar.
+CLI019,Sebastián,Navarro,30742460,11-9751-5010,sebastian.navarro@email.com,Mendoza,Mendoza,Activo,2025-09-15,Suele comprar accesorios deportivos.
+CLI020,Julieta,Cabrera,40510878,11-7216-5422,julieta.cabrera@email.com,Mar del Plata,Buenos Aires,Activo,2024-06-16,Sin observaciones relevantes.
+CLI021,Gonzalo,Ibarra,43688132,11-4598-6313,gonzalo.ibarra@email.com,CABA,Buenos Aires,Activo,2025-10-17,Prefiere contacto por WhatsApp.
+CLI022,Natalia,Ortega,32685577,11-1525-6168,natalia.ortega@email.com,La Plata,Buenos Aires,Activo,2024-02-27,Retira pedidos por local.
+CLI023,Matías,Campos,33983893,11-2084-4456,matias.campos@email.com,Morón,Buenos Aires,Activo,2025-02-14,Solicita envíos a domicilio.
+CLI024,Rocío,Morales,35558837,11-4483-9179,rocio.morales@email.com,Quilmes,Buenos Aires,Activo,2025-08-03,Compra productos de running.
+CLI025,Emiliano,Arias,40396513,11-3340-5339,emiliano.arias@email.com,San Isidro,Buenos Aires,Activo,2025-02-09,Interesado en entrenamiento funcional.
+CLI026,Daniela,Figueroa,33275445,11-9830-5304,daniela.figueroa@email.com,Lanús,Buenos Aires,Activo,2024-05-22,Prefiere transferencia bancaria.
+CLI027,Bruno,Coronel,39375853,11-7543-6930,bruno.coronel@email.com,Rosario,Santa Fe,Activo,2025-08-21,Cliente frecuente.
+CLI028,Antonella,Méndez,29641643,11-9348-9085,antonella.mendez@email.com,Córdoba,Córdoba,Activo,2024-08-12,Consulta promociones antes de comprar.
+CLI029,Iván,Peralta,26580963,11-2796-3504,ivan.peralta@email.com,Mendoza,Mendoza,Inactivo,2024-04-03,Suele comprar accesorios deportivos.
+CLI030,Pilar,Aguirre,30368105,11-7916-2040,pilar.aguirre@email.com,Mar del Plata,Buenos Aires,Activo,2025-10-04,Sin observaciones relevantes.
+CLI031,Franco,Serrano,37805018,11-8668-9669,franco.serrano@email.com,CABA,Buenos Aires,Activo,2025-01-29,Prefiere contacto por WhatsApp.
+CLI032,Melina,Luna,43563180,11-1188-2876,melina.luna@email.com,La Plata,Buenos Aires,Activo,2024-09-14,Retira pedidos por local.
+CLI033,Santiago,Paz,43017734,11-5371-6573,santiago.paz@email.com,Morón,Buenos Aires,Activo,2025-11-29,Solicita envíos a domicilio.
+CLI034,Ailén,Bravo,34848230,11-8123-3591,ailen.bravo@email.com,Quilmes,Buenos Aires,Activo,2024-04-24,Compra productos de running.
+CLI035,Leandro,Godoy,25108894,11-5315-9201,leandro.godoy@email.com,San Isidro,Buenos Aires,Activo,2025-04-09,Interesado en entrenamiento funcional.
+CLI036,Noelia,Vargas,42034970,11-2743-5889,noelia.vargas@email.com,Lanús,Buenos Aires,Activo,2024-07-01,Prefiere transferencia bancaria.
+CLI037,Facundo,Domínguez,42034339,11-4258-3504,facundo.dominguez@email.com,Rosario,Santa Fe,Activo,2025-10-16,Cliente frecuente.
+CLI038,Belén,Reyes,30420686,11-9837-9689,belen.reyes@email.com,Córdoba,Córdoba,Activo,2025-01-17,Consulta promociones antes de comprar.
+CLI039,Ezequiel,Ferreyra,45097245,11-6310-9005,ezequiel.ferreyra@email.com,Mendoza,Mendoza,Activo,2024-01-01,Suele comprar accesorios deportivos.
+CLI040,Milagros,Cáceres,28753657,11-6947-6038,milagros.caceres@email.com,Mar del Plata,Buenos Aires,Activo,2024-01-20,Sin observaciones relevantes.

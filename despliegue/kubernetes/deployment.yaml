@@ -1,0 +1,20 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: ai-sport-sales
+  namespace: ai-sport-sales
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: ai-sport-sales
+  template:
+    metadata:
+      labels:
+        app: ai-sport-sales
+    spec:
+      containers:
+        - name: api
+          image: ai-sport-sales:latest
+          ports:
+            - containerPort: 8000
